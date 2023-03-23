@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<title>Movie Picker</title>
+	<link rel="stylesheet" href="styles.css">
+    <link href='https://fonts.googleapis.com/css?family=Inter' rel='stylesheet'>
+</head>
+<body>
+<main>
+  <h1><a id="headerLink" href="index.html">What Movie Should I Watch?</a></h1>
+
+  <select id="genre-select">
+    <option value="">Choose a Genre</option>
+  </select>
+
+	<div id="movieInfoContainer">
+        <img id="poster" src="">
+        <h2 id="movieTitle">Movie Name</h2>
+        <div class="movie-details">
+            <div class="detail-container"><p id="releaseDate">date released</p></div>
+            <div class="detail-container"><p id="rating">rating</p></div>
+            <div class="detail-container"><p id="genre">genre</p></div>
+        </div>
+        <div class="overview-container">
+          <p id="overview">overview</p>
+        </div>
+    </div>
+
+	<button>Generate Movie</button>    
+</main>
+    <div class="footer">
+    <p>created in 2023 by Jared Poulsen</p>
+    </div>
+
+<script src="main.js"></script>
+</body>

@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans&display=swap');
+
+body {
+  font-family: 'DM Sans', sans-serif;
+  margin: 0;
+  padding: 15px;
+  background-color: rgb(8,11,22);
+  display: flex;
+  flex-direction: column;
+}
+
+main {
+    flex: 1;
+  }
+
+h1 {
+  text-align: center;
+  color: white;
+  padding: 20px;
+  font-weight: 700;
+}
+
+h2 {
+    color: white;
+}
+
+button {
+    border: none;
+    font: inherit;
+    cursor: pointer;
+    display: block;
+    margin: 20px auto;
+    padding: 12px 35px;
+    font-size: 14px;
+    letter-spacing: 0.4px;
+    font-family: 'DM Sans', sans-serif;
+    font-weight: 700;
+    border-radius: 5px;
+    color: white;
+    background-color: #0D9488;
+    box-shadow: none;
+    transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+    background-color: #22b4a1; /* Change this to the desired color */
+    transform: translateY(-2px);
+  }
+
+#movieInfoContainer {
+    display: none;
+    margin-top: 50px;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #0C101E;
+    border-radius: 10px;
+    padding: 40px;
+    border: 1px solid #171e35;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,.5),0 4px 6px -4px rgba(0,0,0,.5);
+}
+
+#poster {
+    max-width: 200px;
+    display:block;
+    margin-left:auto; 
+    margin-right:auto; 
+}
+
+#movieTitle {
+    text-align:center; 
+}
+
+.movie-details {
+    text-align:center; 
+    display:flex; 
+    justify-content:center; 
+}
+
+.detail-container {
+    background-color:#1A1E2D; 
+    color: white;
+    border-radius:5px; 
+    padding: 10px;
+    margin-right:10px; 
+    font-size: 12px;
+}
+
+#overview {
+    text-align:center; 
+}
+
+p {
+    display: block;
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+
+.overview-container {
+    margin-top: 20px;
+    border-radius:5px; 
+    background-color:#1A1E2D; 
+    color: #CBD5E1;
+    padding: 15px;
+}
+
+.footer {
+    display: flex;
+  justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    color: #424f5e;
+    position:static;
+    bottom: 0;
+    width: 100%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    z-index: 9999;
+}
+
+/* Center the genre selector on the page */
+#genre-select {
+    display: block;
+    margin: 0 auto;
+  }
+  
+  /* Style the genre selector */
+  #genre-select {
+    font-family: 'DM Sans', sans-serif;
+    font-size: 16px;
+    padding: 0.5rem;
+    border-radius: 0.25rem;
+    border: none;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.2);
+    background-color:#1A1E2D; 
+    ;
+  color: white;
+  }
+
+  #headerLink {
+    text-decoration: none;
+    color: white;
+  }
+
+  @media only screen 
+  and (min-device-width: 320px) 
+  and (max-device-width: 480px)
+  and (-webkit-min-device-pixel-ratio: 2) {
+    h1 {
+        font-family: 'DM Sans';
+      }
+}
