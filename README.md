@@ -3,7 +3,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="https://i.ibb.co/kghMKRp/Group-3.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/kghMKRp/Group-3.png" alt="Logo" height="80">
 
   <h3 align="center">Film Roulette</h3>
 
