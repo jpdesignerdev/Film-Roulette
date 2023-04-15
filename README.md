@@ -1,5 +1,3 @@
-# Film-Roulette
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
