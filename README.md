@@ -83,7 +83,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@jpdesignerdev](https://twitter.com/jpdesignerdev) - jaredpoulsendesign@gmail.com
 
-Project Link: [https://github.com/jpdesignerdev/Film-Roulette](https://github.com/jpdesignerdev/Film-Roulette)
+Project Link: [https://jpdesignerdev.github.io/Film-Roulette]([https://github.com/jpdesignerdev/Film-Roulette](https://jpdesignerdev.github.io/Film-Roulette))
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
