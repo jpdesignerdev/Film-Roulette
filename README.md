@@ -81,9 +81,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/jpdesignerdev) - jaredpoulsendesign@gmail.com
+Your Name - [@jpdesignerdev](https://twitter.com/jpdesignerdev) - jaredpoulsendesign@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/jpdesignerdev/Film-Roulette)
+Project Link: [https://github.com/jpdesignerdev/Film-Roulette](https://github.com/jpdesignerdev/Film-Roulette)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
